@@ -1,0 +1,17 @@
+body {
+    
+    text-align: center;
+    margin: auto;
+
+}
+
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+
+.row img
+{
+ width: 200px;
+}
